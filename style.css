@@ -4,7 +4,11 @@ body {
 }
 
 h1 {
-    font size: 50px;
+    font size: 50%;
+}
+
+p {
+    font-size: 18px;
 }
 
 .orange {
@@ -23,7 +27,7 @@ section {
 }
 
 .half-width img {
-    width: 80%;
+    width: 60%;
 }
 
 .link-button {
